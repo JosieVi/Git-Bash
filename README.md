@@ -1,8 +1,8 @@
 # Git-Bash
 ## Homework-1
 <b>Результат выполнения задания:</b>\
-[Homework-1.1](https://github.com/JosieVi/Git_Bash/blob/main/Homework-1.1.txt)\
-[Homework-1.2](https://github.com/JosieVi/Git_Bash/blob/main/Homework-1.2.sh)
+[Homework-1.1](https://github.com/JosieVi/Git-Bash/blob/main/Homework-1.1.txt)\
+[Homework-1.2](https://github.com/JosieVi/Git-Bash/blob/main/Homework-1.2.sh)
 
 ### Task 1
 Linux terminal (GitBash) commands
@@ -35,7 +35,7 @@ Linux terminal (GitBash) commands
 
 ## Homework-2
 <b>Результат выполнения задания:</b>\
-[Homework-2](https://github.com/JosieVi/Git_Bash/blob/main/Homework-2.txt)
+[Homework-2](https://github.com/JosieVi/Git-Bash/blob/main/Homework-2.txt)
 
 Linux terminal (GitBash) commands
 1. Сделать папку dir_1 
